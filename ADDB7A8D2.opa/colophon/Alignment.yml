@@ -1,0 +1,28 @@
+segment_sources:
+  PC4C73EEC:
+    type: origin_type
+    relation: translation
+    language: sa
+  PFB7A4F47:
+    type: origin_type
+    relation: translation
+    language: sa
+  P501ECCB0:
+    type: origin_type
+    relation: translation
+    language: sa
+  P692047DE:
+    type: origin_type
+    relation: translation
+    language: bo
+  P45E6AB58:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  00ea3afd0a8e4cbcab99a84b8d1fb98c:
+    PC4C73EEC: 847fd14b687f45fda656cd319ef184f6
+    PFB7A4F47: 835a77565857489c98cbf0968654f14f
+    P501ECCB0: ca48bf0a6be34c17af2f3ba83f7efc46
+    P692047DE: 4348fcdebe0d4528aaa427ddeeb49501
+    P45E6AB58: 2fae72cc08c9475586c9ae5adb157aa5
